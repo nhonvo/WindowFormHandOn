@@ -131,7 +131,8 @@ Create table Faculty
     FacultyName NVARCHAR(200)
 )
 </code>
-
+</div>
+</details>
 **Requirement**
 
 
@@ -300,6 +301,8 @@ INSERT [dbo].[Order] ([InvoiceNo], [No], [ProductID], [ProductName], [Unit],
 [Price], [Quantity]) VALUES (N'HDX003', 4, N'Product2', N'Sản phẩm 2', N'Cái',
 CAST(120000 AS Decimal(18, 0)), 60)
 </code>
+</div>
+</details>
 **Requirement**
 
 Khi load Form  
