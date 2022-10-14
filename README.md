@@ -1,5 +1,9 @@
 # WindowFormHandOn
-The repository is a tutorial about Winform(C#) with 7 steps:
+
+C# is a object oriented programming language, the power that is well as developed by Microsoft, C # is the start section for their .NET plan.
+If you want you to start learn c# or review c# this repo for you. Repo has a lot of exercises from easy to hard.
+
+We have a tutorial about Winform(C#) with 7 steps:
 
 1. Console app
 2. Programing basic window form
@@ -8,7 +12,8 @@ The repository is a tutorial about Winform(C#) with 7 steps:
 5. Programing window form with Report
 6. Programing window form exam
 7. Window form Project
-
+---
+Give me a star to suppport.
 ## Console app
 
 ### Student Management - Lab01
@@ -381,3 +386,14 @@ Viết chương trình để xem thông tin 2 loại Data Report như sau - Xem 
 ### Twoone - Film management 
 
 https://github.com/truongnhon-hutech/TwooneWinform
+
+## Reference
+Lê Xuân Thành
+
+## Author
+Võ Thương Trường Nhơn
+
+# Supporting the Development of this repository
+- Star this repo for more people know 
+- Create new merge request
+
