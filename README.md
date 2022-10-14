@@ -93,8 +93,6 @@ màu trắng, ghế đã bán vé màu vàng). Khi người sử dụng click ch
 
 ### Account management
 
-
-
 - Quản lý thông tin tài khoản cần lưu trữ các thông tin sau: số tài khoản, tên khách hàng, địa chỉ  khách hàng và số tiền trong tài khoản. Thiết kế chương trình quản lý thông tin tài khoản cho một ngân  hàng tương tự như sau:
 
 - 4.1 Khi nhấn vào nút “Thêm/Cập Nhật” - Kiểm tra các thông tin bắt buộc phải nhập liệu cho số tài khoản, tên, địa chỉ và số tiền. Xuất  hiện thông báo lỗi “Vui lòng nhập đầy đủ thông tin!”. - Nếu chưa có dữ liệu số tài khoản trong ListView thì Thêm mới dữ liệu nhập vào ListView,  tính lại tổng tiền và thông báo “Thêm mới dữ liệu thành công!” Nếu đã tồn tại số tài khoản trong ListView thì Cập nhật dữ liệu vào ListView và tính lại tổng  tiền và thông báo “Cập nhật dữ liệu thành công!” 
@@ -104,6 +102,10 @@ màu trắng, ghế đã bán vé màu vàng). Khi người sử dụng click ch
   ![image-20221014163722238](assets/image-20221014163722238.png)
 
 
+
+### Dental bill
+
+![image-20221014175239837](assets/image-20221014175239837.png)
 
 ## Programing window form connect database
 
@@ -313,6 +315,14 @@ Khi load Form
 - Khi check vào CheckBox Xem tất cả trong tháng, thì thời gian giao hàng sẽ được thể hiện từ  ngày đầu tháng hiện hành đến cuối tháng và hiện thị thông tin ở dướI
 
 ![image-20221014164318398](assets/image-20221014164318398.png)
+
+### Cinema Ticket Management(** HARD ONE)
+
+| Login form                                                   | buy ticket Form                                              | Order form                                                   | Add customer                                                 | Main form                                                    |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| ![image-20221014175450552](assets/image-20221014175450552.png) | ![image-20221014163627887](assets/image-20221014163627887.png) | ![image-20221014175623332](assets/image-20221014175623332.png) | ![image-20221014175649158](assets/image-20221014175649158.png) | ![image-20221014175705739](assets/image-20221014175705739.png) |
+
+
 
 ## Programing window form with MDI(too easy not really important)
 
