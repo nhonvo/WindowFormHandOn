@@ -388,7 +388,7 @@ Viết chương trình để xem thông tin 2 loại Data Report như sau - Xem 
 https://github.com/truongnhon-hutech/TwooneWinform
 
 ## Reference
-Lê Xuân Thành
+TienNguyen : [Her repo](https://github.com/thuytien007/bao-mat-thong-tin)
 Hutech document
 
 ## Author
